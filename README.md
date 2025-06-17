@@ -1,4 +1,4 @@
-Edited by Prabhas
+ This is a Java project
 # AirBnB Interview Questions
 
 ## Disclaim
